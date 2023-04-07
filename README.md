@@ -6,14 +6,14 @@
 
 My portfolio websites that i built or work on it.
  - www.sourceofgoods.com
- - www.sara-ashurbeyli.info.az
- - www.meest.com
+ - www.sara-ashurbeyli.info
+ - www.meest.com 
+ - www.shikhiyev.com
  - www.besmobile.az
  - www.bestech.az
  - www.audiobook.az
  - www.mado.az
  - www.alisveris.com
- - www.shikhiyev.com
  - www.postex.az
  - www.shenler.az
  - www.ucuzal.az
@@ -36,7 +36,6 @@ My portfolio websites that i built or work on it.
  - www.usagbagcalari.az
  - www.satdim.com
  - www.developers.az
- - www.shikhiyev.com
  - 
 
 <!---
