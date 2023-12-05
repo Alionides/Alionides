@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alionides
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me alishixiyev@gmail.com
 
