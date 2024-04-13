@@ -5,7 +5,8 @@
 - 📫 How to reach me alishixiyev@gmail.com
 
   My portfolio websites that i built or work on it.
-   - www.gl.jis.az
+   - www.webtypely.com
+   - gl.jis.az
    - www.sourceofgoods.com
    - www.sara-ashurbeyli.info
    - www.meest.com 
